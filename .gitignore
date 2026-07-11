@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Visual Studio Code
+.vscode/
+
+# Variables privadas
+.env
+.streamlit/secrets.toml
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
